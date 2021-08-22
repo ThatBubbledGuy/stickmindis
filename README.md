@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ENERGYFROMVOID
 - 👀 I’m interested in Coding and making games ...
-- 🌱 I’m currently learning Phyton or C#...
+- 🌱 I’m currently learning Lua
 -
 -  I’m looking to collaborate on games with anyone
 
